@@ -24,21 +24,21 @@ CustomAudioSamples: []
 SoundEffects: []
 TimingPoints:
 - StartTime: 45
-  Bpm: 29.5
+  Bpm: 59
 - StartTime: 122078.8984375
-  Bpm: 27.5
+  Bpm: 55
   Signature: 1
 - StartTime: 123169.7890625
-  Bpm: 27.25
+  Bpm: 54.5
   Signature: 1
 - StartTime: 124270.7109375
-  Bpm: 25.25
+  Bpm: 50.5
   Signature: 1
 - StartTime: 125458.8125
-  Bpm: 25.25
+  Bpm: 50.5
   Signature: 1
 - StartTime: 126646.9140625
-  Bpm: 15
+  Bpm: 30
   Signature: 1
 - StartTime: 128646.9140625
   Bpm: 25
