@@ -8,7 +8,7 @@ Mode: Keys4
 Title: Soul and Mind
 Artist: Cheesy Hfj
 Source: ONE
-Tags: hfjone, airy, bryce, liam, amelia, piano, sv, qot4, qot24, qot2024, swiss, reject, classical
+Tags: hfjone, airy, bryce, liam, amelia, piano, sv, qot4, qot24, qot2024, swiss, reject, classical, i'm, it's
 Creator: Emik
 DifficultyName: i think im doing a pretty good job
 Description: Created at 1709678482000
@@ -32146,6 +32146,11 @@ HitObjects:
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 2
+- StartTime: 22417
+  Lane: 2
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
 - StartTime: 23434
   Lane: 2
   HitSound: Normal, Clap
@@ -32291,6 +32296,11 @@ HitObjects:
   HitSound: Normal, Clap
   KeySounds: []
   EditorLayer: 2
+- StartTime: 32587
+  Lane: 4
+  HitSound: Normal, Whistle
+  KeySounds: []
+  EditorLayer: 1
 - StartTime: 34621
   Lane: 4
   HitSound: Normal, Finish
