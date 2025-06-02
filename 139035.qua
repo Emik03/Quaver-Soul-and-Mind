@@ -8,7 +8,7 @@ Mode: Keys4
 Title: Soul and Mind
 Artist: Cheesy Hfj
 Source: ONE
-Tags: hfjone, airy, bryce, liam, amelia, piano, sv, qot4, qot24, qot2024, swiss, reject, classical, i'm, it's
+Tags: hfjone, airy, bryce, liam, amelia, piano, sv, qot4, qot24, qot2024, swiss, reject, classical, i'm, it's, &
 Creator: Emik
 DifficultyName: i think im doing a pretty good job
 Description: Created at 1709678482000
@@ -25,6 +25,66 @@ CustomAudioSamples: []
 SoundEffects: []
 TimingPoints:
 - StartTime: 45
+  Bpm: 59
+- StartTime: 4112
+  Bpm: 59
+- StartTime: 8180
+  Bpm: 59
+- StartTime: 12248
+  Bpm: 59
+- StartTime: 16316
+  Bpm: 59
+- StartTime: 20383
+  Bpm: 59
+- StartTime: 24451
+  Bpm: 59
+- StartTime: 28519
+  Bpm: 59
+- StartTime: 32587
+  Bpm: 59
+- StartTime: 36655
+  Bpm: 59
+- StartTime: 40722
+  Bpm: 59
+- StartTime: 44790
+  Bpm: 59
+- StartTime: 48858
+  Bpm: 59
+- StartTime: 52926
+  Bpm: 59
+- StartTime: 56994
+  Bpm: 59
+- StartTime: 61061
+  Bpm: 59
+- StartTime: 65129
+  Bpm: 59
+- StartTime: 69197
+  Bpm: 59
+- StartTime: 73265
+  Bpm: 59
+- StartTime: 77333
+  Bpm: 59
+- StartTime: 81400
+  Bpm: 59
+- StartTime: 85468
+  Bpm: 59
+- StartTime: 89536
+  Bpm: 59
+- StartTime: 93604
+  Bpm: 59
+- StartTime: 97672
+  Bpm: 59
+- StartTime: 101739
+  Bpm: 59
+- StartTime: 105807
+  Bpm: 59
+- StartTime: 109875
+  Bpm: 59
+- StartTime: 113943
+  Bpm: 59
+- StartTime: 118011
+  Bpm: 59
+- StartTime: 122078
   Bpm: 59
 - StartTime: 122078.8984375
   Bpm: 55
